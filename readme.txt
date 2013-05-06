@@ -26,7 +26,7 @@ need to reload the page.
 *   **Buttons to insert images, videos and links** easily
 *   **Limit of characters per comment.**
 *   Option to **allow comment to registered users only**, or also to non-registered.
-*   Simple Ajax Insert Comments is fully **Responsive.**
+*   Simple Ajax Insert Comments Lite is fully **Responsive.**
 *   **Full validation** of fields.
 *   **Captcha** to give security to the form and avoid Spam.
 *   **Area of text auto incrementing**.
