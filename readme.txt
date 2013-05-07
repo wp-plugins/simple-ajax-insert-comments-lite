@@ -45,7 +45,7 @@ need to reload the page.
 > 
 > *   You can see a live preview <a href="http://insertcommentswordpress.hol.es/" title="See a live preview">here</a>
 > *   You can see the limited functionality <a href="http://insertcommentswordpress.hol.es/" title="See functionality">here</a>
-> *   You can download the full version from <a href="http://bit.ly/YxoS4t" title="Get full version">here</a>
+> *   You can download the full version from <a href="http://bit.ly/17FO3T8" title="Get full version">here</a>
 > 
 
 
