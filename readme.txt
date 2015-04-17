@@ -12,11 +12,9 @@ AJAX comment system. Insert and displays Comments easily and quickly using Ajax 
 
 == Description ==
 
-Simple Ajax Insert Comments Lite is a small but powerful plugin for wordpress that allows you to 
-insert and get comments in a fast and easy way to style of social networks.
+Simple Ajax Insert Comments Lite is a small but powerful plugin for wordpress that allows you insert and get comments in a fast and easy.
 
-Simple Ajax Insert Comments Lite uses Ajax, jQuery and PHP to insert comments for what you don’t 
-need to reload the page.
+Simple Ajax Insert Comments Lite uses Ajax, jQuery and PHP to insert comments for what you don't need to reload the page.
 
 #### Main Features
 
