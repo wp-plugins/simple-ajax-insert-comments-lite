@@ -1,21 +1,21 @@
 === Simple Ajax Insert Comments Lite ===
 Contributors: maxlopez
-Donate link: http://insertcommentswordpress.hol.es
-Tags: comments, comment, ajax comments, ajax commenting, get comments, insert comments, comments pagination, comment paging, comment pager, reply comments, send comments, wordpress comments, insert reviews
-Requires at least: 3.0.1
-Tested up to: 3.5.1
-Stable tag: 1.1.2
+Donate link: http://ajax-insert-comments.info
+Tags: comments, comment, ajax comments, ajax commenting, get comments, insert comments, comments pagination, comment paging, comment pager, reply comments, send comments, wordpress comments, insert reviews, comment form, commenting, comment system, comments box, comment template, discussion, post comments, reply, reply comments
+Requires at least: 3.2
+Tested up to: 4.1.1
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Inserts and displays Comments easily and quickly using Ajax style of social networks.
+AJAX comment system. Insert and displays Comments easily and quickly using Ajax style of social networks.
 
 == Description ==
 
 Simple Ajax Insert Comments Lite is a small but powerful plugin for wordpress that allows you to 
 insert and get comments in a fast and easy way to style of social networks.
 
-Simple Ajax Insert Comments Lite uses Ajax, jQuery and PHP to insert comments for what you don't 
+Simple Ajax Insert Comments Lite uses Ajax, jQuery and PHP to insert comments for what you don’t 
 need to reload the page.
 
 #### Main Features
@@ -26,7 +26,7 @@ need to reload the page.
 *   **Buttons to insert images, videos and links** easily
 *   **Limit of characters per comment.**
 *   Option to **allow comment to registered users only**, or also to non-registered.
-*   Simple Ajax Insert Comments Lite is fully **Responsive.**
+*   Simple Ajax Insert Comments is fully **Responsive.**
 *   **Full validation** of fields.
 *   **Captcha** to give security to the form and avoid Spam.
 *   **Area of text auto incrementing**.
@@ -43,9 +43,9 @@ need to reload the page.
 
 > This is a free version and some features are not available.
 > 
-> *   You can see a live preview <a href="http://insertcommentswordpress.hol.es/" title="See a live preview">here</a>
-> *   You can see the limited functionality <a href="http://insertcommentswordpress.hol.es/" title="See functionality">here</a>
-> *   You can download the full version from <a href="http://bit.ly/17FO3T8" title="Get full version">here</a>
+> *   You can see a live preview <a href="http://ajax-insert-comments.info" title="See a live preview">here</a>
+> *   You can see the limited functionality <a href="http://ajax-insert-comments.info" title="See functionality">here</a>
+> *   You can download the full version from <a href="http://bit.ly/YxoS4t" title="Get full version">here</a>
 > 
 
 
@@ -66,15 +66,19 @@ need to reload the page.
 
 == Changelog ==
 
+= 1.2.1 =
+* Fixed Bug: Problems with the notifications at author of the post
+* Fixed Bug: Problems with line breaks
+* Added : Adapting with wordpress.org plugin repository guidelines
+* Added : Compatibility with wordpress 4.1.1 or higher
+
 = 1.1.2 =
-* Update - Added Buttons to easily insert **images, videos and links**
-* Fixed - Improved field layout
+* Fixed Bug: Improved field layout
 
 = 1.1.0 =
 
-* Update - Reply to Comments
-* Update - Support Responsive
-* Update - Support Widget and Shortcode
-* Fixed - Improved field layout
-* Fixed - Some design problems
-* Fixed - Bugs fixes
+* Update : Support Responsive
+* Update : Support Widget and Shortcode
+* Fixed Bug: Improved field layout
+* Fixed Bug: Some design problems
+* Fixed Bug: Bugs fixes
