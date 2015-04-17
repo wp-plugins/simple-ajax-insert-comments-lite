@@ -1,6 +1,6 @@
 === Simple Ajax Insert Comments Lite ===
 Contributors: maxlopez
-Donate link: http://insertcommentswordpress.hol.es
+Donate link: http://ajax-insert-comments.info
 Tags: comments, comment, ajax comments, ajax commenting, get comments, insert comments, comments pagination, comment paging, comment pager, reply comments, send comments, wordpress comments, insert reviews
 Requires at least: 3.0.1
 Tested up to: 3.5.1
@@ -43,8 +43,8 @@ need to reload the page.
 
 > This is a free version and some features are not available.
 > 
-> *   You can see a live preview <a href="http://insertcommentswordpress.hol.es/" title="See a live preview">here</a>
-> *   You can see the limited functionality <a href="http://insertcommentswordpress.hol.es/" title="See functionality">here</a>
+> *   You can see a live preview <a href="http://ajax-insert-comments.info" title="See a live preview">here</a>
+> *   You can see the limited functionality <a href="http://ajax-insert-comments.info" title="See functionality">here</a>
 > *   You can download the full version from <a href="http://bit.ly/YxoS4t" title="Get full version">here</a>
 > 
 
